@@ -1,2 +1,2 @@
 # hello-world
-An introductory repository for a curious techi.
+An introductory repository for a curious technosavant.
